@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "humidity": 75.9,
+    "temperature": 81.5
+  },
+  "measurement": "ubuntu1",
+  "tags": {
+    "location": "pool"
+  },
+  "time": "2025-03-28T12:10:03Z"
+}
